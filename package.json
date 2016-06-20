@@ -1,0 +1,17 @@
+{
+  "name": "taskManager",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PerervenkoVladislav/tasks-manager.git"
+  },
+  "dependencies": {
+    "react": "^15.1.0",
+    "react-native": "0.27.2",
+    "moment": "^2.11.2"
+  }
+}
